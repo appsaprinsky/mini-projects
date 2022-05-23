@@ -7,6 +7,7 @@ This is a small project to practice creating and deploying small apps using Reac
 ## What could be done?
 In User interface, person could create and delete rows from the tables
 
+![This is an image](https://github.com/appsaprinsky/mini-projects/blob/main/images/1a.png)
 
 
 # HealthyDayToday
@@ -16,6 +17,10 @@ This is a small project to practice creating UI design in Figma. Project consist
 ## What could be done?
 Given animation, users could explore its design and interface. 
 
+![This is an image](https://github.com/appsaprinsky/mini-projects/blob/main/images/2a.png)
+![This is an image](https://github.com/appsaprinsky/mini-projects/blob/main/images/2b.png)
+![This is an image](https://github.com/appsaprinsky/mini-projects/blob/main/images/2c.png)
+
 
 # restapiapp1
 https://restapiapp1.pythonanywhere.com/star-wars/
@@ -24,7 +29,8 @@ This is a small project to practice creating API Views using Django Rest Framewo
 ## What could be done?
 Users could add or delete data in species and people roots.
 
-
+![This is an image](https://github.com/appsaprinsky/mini-projects/blob/main/images/3a.png)
+![This is an image](https://github.com/appsaprinsky/mini-projects/blob/main/images/3b.png)
 
 # bestaautoforyou
 https://bestaautoforyou.pythonanywhere.com/
@@ -34,3 +40,17 @@ This is a small project to practice creating a Django e-commerce website.
 There are two type of users: 
 1 visitors (login is not required)
 2 owner (a small landing page is created, so the owner could create, modify and delete products that will appear in the landing page).
+
+![This is an image](https://github.com/appsaprinsky/mini-projects/blob/main/images/4a.png)
+![This is an image](https://github.com/appsaprinsky/mini-projects/blob/main/images/4b.png)
+![This is an image](https://github.com/appsaprinsky/mini-projects/blob/main/images/4c.png)
+
+
+
+
+
+
+
+
+
+
